@@ -1,0 +1,67 @@
+h1{
+    color: white;    
+    font-family: 'Courier';
+    font-weight: bolder;
+    font-size: 40px; 
+}
+
+body{
+    background-color: rgb(189, 155, 221);
+    min-height: 10%;
+}
+
+header{
+    background: url("../img/imgBanner.jpg");
+    background-size: contain;
+    height: 250px;
+    overflow: hidden;
+    text-align: right;     
+}
+nav{
+    color: white;
+    text-align: right;
+    float: inline-end;
+}
+li{
+    list-style: none;
+}
+
+.navi{    
+    float: right;
+    margin-top: 110px;
+    margin-right: 40px;
+    font-size: 18px;
+    font-family: 'Courier';
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+#imgMe{
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+    background: url("../img/mePic.jpg") no-repeat;
+    background-size: contain;    
+}
+#dataLi{
+    color: rgb(68, 66, 64); 
+    font-family: 'New Courier';
+    font-size: 30px; 
+}
+article{
+    color: rgb(68, 66, 64); 
+    font-family: 'New Courier';
+    font-size: 20px; 
+    margin: 30px;
+}
+footer{
+    background-color: rgb(69, 5, 82);
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
